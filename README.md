@@ -5,9 +5,8 @@
 - 🎓 **B.Tech Student** (1st Year)
 - 👨‍💻 **Full-Stack Developer in the Making**
 - 🔥 **Passionate about Tech, Anime & Innovation**
-- 🎨 **Blender Enthusiast (v4.3.1)**
 - 🏆 **Aspiring Entrepreneur & Future Millionaire**
-- ⚡ **Currently Working on:** Smart Energy-Saving Plug
+
 
 ## 💻 Tech Stack
 
@@ -18,15 +17,6 @@
 
 ### 🔹 Frameworks & Tools:
 - 🏗️ Next.js (Currently Learning)
-- 🔌 Arduino (Exploring Hardware)
-- 🎥 Blender (3D Modeling & Animation)
-
-## 📺 My YouTube Journey
-
-🔹 I create Python tutorials & coding content:
-- ✅ Lists, Tuples & Dictionaries
-- ✅ Even/Odd Number Checker
-- 🚀 More coming soon!
 
 ## 🎯 Goals for 2025
 - 💰 Become financially responsible
