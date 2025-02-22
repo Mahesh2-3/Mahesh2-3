@@ -13,7 +13,7 @@
 ### 🔹 Programming Languages:
 - 🐍 Python (Complete)
 - 🌐 JavaScript (Complete)
-- 💎 HTML, CSS
+- 💎 HTML, CSS, REACT
 
 ### 🔹 Frameworks & Tools:
 - 🏗️ Next.js (Currently Learning)
