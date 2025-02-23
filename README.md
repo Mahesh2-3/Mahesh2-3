@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech Student** (1st Year)
+- 🎓 **B.Tech Student**
 - 👨‍💻 **Full-Stack Developer in the Making**
 - 🔥 **Passionate about Tech, Anime & Innovation**
 - 🏆 **Aspiring Entrepreneur & Future Millionaire**
