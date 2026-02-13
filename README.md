@@ -28,7 +28,11 @@ I'm currently working on an application which integrates **Medicine with AI**. I
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Mahesh2-3&theme=dark&hide_border=false)
+<p align="left">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahesh2-3&theme=dark&show_icons=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Mahesh2-3&theme=dark" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahesh2-3&theme=dark&layout=compact" />
+</p>
 
 
 ## 🌐 Connect with Me:
