@@ -29,10 +29,8 @@ I'm currently working on an application which integrates **Medicine with AI**. I
 ---
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Mahesh2-3&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mahesh2-3&theme=dark&hide_border=false)
 
----
-[![](https://visitcount.itsvg.in/api?id=Mahesh2-3&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 ## 🌐 Connect with Me:
