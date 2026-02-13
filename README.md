@@ -26,12 +26,10 @@ I'm currently working on an application which integrates **Medicine with AI**. I
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
----
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Mahesh2-3&theme=dark&hide_border=false)
 
----
 
 ## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/32mah_esh) 
