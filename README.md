@@ -9,7 +9,7 @@ Currently developing a revolutionary AI-powered medical application using React 
 
 I'm deeply interested in integrating AI into Web and Mobile apps and constantly pushing my boundaries.
 
-Looking to collaborate with ambitious tech enthusiasts and builders.  
+Looking to collaborate with crazy tech enthusiasts and builders.  
 Let’s innovate and create impact 💡
 
 ---
