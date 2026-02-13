@@ -1,5 +1,16 @@
 # 💫 About Me:
-I'm currently working on an application which integrates **Medicine with AI**. I'm actively learning to integrate AI into my Web and Android applications and I am looking to collaborate with fellow tech enthusiasts!
+Hey there! I'm Mahesh 🚀  
+
+Full-Stack Developer | AI Explorer | React Native Builder  
+
+I’ve built multiple full-stack applications from scratch and enjoy solving real-world problems through technology.
+
+Currently developing a revolutionary AI-powered medical application using React Native — combining **Healthcare + Artificial Intelligence** to create smarter digital solutions.
+
+I'm deeply interested in integrating AI into Web and Mobile apps and constantly pushing my boundaries.
+
+Looking to collaborate with ambitious tech enthusiasts and builders.  
+Let’s innovate and create impact 💡
 
 ---
 
